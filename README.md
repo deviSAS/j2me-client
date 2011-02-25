@@ -55,15 +55,9 @@ The goals of the project and what is expected to arrive for the third quarter of
 
 ##Help the project
 
-Sponsor a module or just donate to the development, use the following button, you can contact us at <devi@foravatars.com>.
+Sponsor a module or just donate to the development, click here to [DONATE](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KCT7JAM37SWDU).
+You can contact us at <devi@foravatars.com> if need help with the donation process, also let us know who you are! :)
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----
-">
-<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypal.com/es_XC/i/scr/pixel.gif" width="1" height="1">
-</form>
 
 ## Specifications
 
@@ -95,11 +89,11 @@ Start a new demo project by loading the folder inside source folder, make sure L
 Java class files distribution:
 
 > com.devi.os/
-> - AvatarsNear: Receives and parse 'Avatars nears' data when requested, this that is sent to a UI file.
+> - AvatarsNear: Receives and parse 'Avatars nears' data when requested, then, the data is sent to an UI file.
 > - ChatLocal: Receives local chat messages, holds up to 10 messsages in reverse order (to save memory).
 > - DataSend: Handles the system data transfer, takes care of the format and sends the data to the server.
 > - Events: Receive events data from server and transfer them to the correct class.
-> - Friends: Handles avatar friends, loaded on start up, holds friend status (on/off) and UUD.
+> - Friends: Handles avatar friends, loaded on log in, holds friend status (on/off) and UUID.
 > - IMSessions: Handles each IM session (even offline messages) by an unique ID.
 > - MainUI: Handles the whole system User Interface, decides wich UI file call.
 > - UserLogin:  Makes possible the user login parsing the login view data and sending it to DataSend.
@@ -109,4 +103,5 @@ Java class files distribution:
 > - JSONClasses
 
 > com.devi.os.ui/
+> -
 > com.devi.os.util

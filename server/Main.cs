@@ -130,9 +130,9 @@ namespace deviMobile
                     DefaultLoginServer = griddata[1];
                     defaulted = true;
                 }
-                Console.WriteLine("[MAIN] Grids cargados " + griddata[1] + " (" + griddata[0] + ")");
+                Console.WriteLine("[MAIN] Grids loaded " + griddata[1] + " (" + griddata[0] + ")");
             }
-            Console.WriteLine("[MAIN] Grid por defecto: " + DEFAULT_LOGIN_SERVER);
+            Console.WriteLine("[MAIN] Default grid: " + DEFAULT_LOGIN_SERVER);
             
             // More fun option setting.
             if (args["root"] != null)
@@ -143,7 +143,7 @@ namespace deviMobile
             {
                 StaticRoot += "/";
             }
-            Console.WriteLine("[MAIN] Root estático del sistema: " + STATIC_ROOT);
+            Console.WriteLine("[MAIN] Static root: " + STATIC_ROOT);
             if (args["texturecache"] != null)
             {
                 TextureCache = args["texturecache"];

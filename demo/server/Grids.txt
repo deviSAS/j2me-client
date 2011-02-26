@@ -1,0 +1,2 @@
+http://opensim.co:8002/ deviOS
+http://login.osgrid.org/ OSGrid

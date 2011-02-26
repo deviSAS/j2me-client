@@ -1,1 +1,1 @@
-#Read our wiki for up to date info about this project. [Wiki](https://github.com/deviSAS/j2me-client/wiki/)
+#Read our wiki for up to date info about this project. [Wiki](http://github.com/deviSAS/j2me-client/wiki/)

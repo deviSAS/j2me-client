@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="deviMobile">
+</Property><Property Name="Solution File" Value="E:\OpenSim\server\deviMobile.sln">
+</Property><Property Name="User Options File" Value="E:\OpenSim\server\deviMobile.suo">
+</Property><Property Name="Date" Value="Saturday, December 11, 2010">
+</Property><Property Name="Time" Value="16:11 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="deviMobile.sln" Description="File successfully backed up as E:\OpenSim\server\Backup\deviMobile.sln">
+</Event><Event ErrorLevel="0" Project="" Source="deviMobile.suo" Description="File successfully backed up as E:\OpenSim\server\Backup\deviMobile.suo">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="deviMobile.csproj" Description="Project file successfully backed up as E:\OpenSim\server\Backup\deviMobile.csproj">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="deviMobile.csproj.user" Description="Project user file successfully backed up as E:\OpenSim\server\Backup\deviMobile.csproj.user">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="AvatarTracker.cs" Description="File successfully backed up as E:\OpenSim\server\Backup\AvatarTracker.cs">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="Html\Exit.cs" Description="File successfully backed up as E:\OpenSim\server\Backup\Html\Exit.cs">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="CommandLine.cs" Description="File successfully backed up as E:\OpenSim\server\Backup\CommandLine.cs">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="Crypto.cs" Description="File successfully backed up as E:\OpenSim\server\Backup\Crypto.cs">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="Events.cs" Description="File successfully backed up as E:\OpenSim\server\Backup\Events.cs">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="Html\BasicStats.cs" Description="File successfully backed up as E:\OpenSim\server\Backup\Html\BasicStats.cs">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="Html\Connect.cs" Description="File successfully backed up as E:\OpenSim\server\Backup\Html\Connect.cs">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="Html\EventQueue.cs" Description="File successfully backed up as E:\OpenSim\server\Backup\Html\EventQueue.cs">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="Html\MainPage.cs" Description="File successfully backed up as E:\OpenSim\server\Backup\Html\MainPage.cs">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="Html\Logout.cs" Description="File successfully backed up as E:\OpenSim\server\Backup\Html\Logout.cs">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="Html\Proxy.cs" Description="File successfully backed up as E:\OpenSim\server\Backup\Html\Proxy.cs">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="Html\SendMessage.cs" Description="File successfully backed up as E:\OpenSim\server\Backup\Html\SendMessage.cs">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="Html\Templates\Parser.cs" Description="File successfully backed up as E:\OpenSim\server\Backup\Html\Templates\Parser.cs">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="Html\LoginDetails.cs" Description="File successfully backed up as E:\OpenSim\server\Backup\Html\LoginDetails.cs">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="Main.cs" Description="File successfully backed up as E:\OpenSim\server\Backup\Main.cs">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="MakeJson.cs" Description="File successfully backed up as E:\OpenSim\server\Backup\MakeJson.cs">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="User.cs" Description="File successfully backed up as E:\OpenSim\server\Backup\User.cs">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="Html\MakeFile.cs" Description="File successfully backed up as E:\OpenSim\server\Backup\Html\MakeFile.cs">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="BanList.cs" Description="File successfully backed up as E:\OpenSim\server\Backup\BanList.cs">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="Html\CreateSession.cs" Description="File successfully backed up as E:\OpenSim\server\Backup\Html\CreateSession.cs">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="Converters\UUIDConverter.cs" Description="File successfully backed up as E:\OpenSim\server\Backup\Converters\UUIDConverter.cs">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="assemblies\Affirma.ThreeSharp.dll" Description="File successfully backed up as E:\OpenSim\server\Backup\assemblies\Affirma.ThreeSharp.dll">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="assemblies\MiniHttpd.dll" Description="File successfully backed up as E:\OpenSim\server\Backup\assemblies\MiniHttpd.dll">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="assemblies\Newtonsoft.Json.dll" Description="File successfully backed up as E:\OpenSim\server\Backup\assemblies\Newtonsoft.Json.dll">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="assemblies\log4net.dll" Description="File successfully backed up as E:\OpenSim\server\Backup\assemblies\log4net.dll">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="libopenjpeg-dotnet-2.1.3.0-dotnet-1-i686.so" Description="File successfully backed up as E:\OpenSim\server\Backup\libopenjpeg-dotnet-2.1.3.0-dotnet-1-i686.so">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="libopenjpeg-dotnet-2.1.3.0-dotnet-1-x86_64.so" Description="File successfully backed up as E:\OpenSim\server\Backup\libopenjpeg-dotnet-2.1.3.0-dotnet-1-x86_64.so">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="libopenjpeg-dotnet-2.1.3.0-dotnet-1.dylib" Description="File successfully backed up as E:\OpenSim\server\Backup\libopenjpeg-dotnet-2.1.3.0-dotnet-1.dylib">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="OpenMetaverse.dll.config" Description="File successfully backed up as E:\OpenSim\server\Backup\OpenMetaverse.dll.config">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="assemblies\OpenMetaverse.dll" Description="File successfully backed up as E:\OpenSim\server\Backup\assemblies\OpenMetaverse.dll">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="assemblies\OpenMetaverse.StructuredData.dll" Description="File successfully backed up as E:\OpenSim\server\Backup\assemblies\OpenMetaverse.StructuredData.dll">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="assemblies\OpenMetaverseTypes.dll" Description="File successfully backed up as E:\OpenSim\server\Backup\assemblies\OpenMetaverseTypes.dll">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="Contributors.txt" Description="File successfully backed up as E:\OpenSim\server\Backup\Contributors.txt">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="Grids.txt" Description="File successfully backed up as E:\OpenSim\server\Backup\Grids.txt">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="Html\Templates\index.html" Description="File successfully backed up as E:\OpenSim\server\Backup\Html\Templates\index.html">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="openjpeg-dotnet-x86_64.dll" Description="File successfully backed up as E:\OpenSim\server\Backup\openjpeg-dotnet-x86_64.dll">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="openjpeg-dotnet.dll" Description="File successfully backed up as E:\OpenSim\server\Backup\openjpeg-dotnet.dll">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="openmetaverse_data\avatar_lad.xml" Description="File successfully backed up as E:\OpenSim\server\Backup\openmetaverse_data\avatar_lad.xml">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="openmetaverse_data\blush_alpha.tga" Description="File successfully backed up as E:\OpenSim\server\Backup\openmetaverse_data\blush_alpha.tga">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="openmetaverse_data\bodyfreckles_alpha.tga" Description="File successfully backed up as E:\OpenSim\server\Backup\openmetaverse_data\bodyfreckles_alpha.tga">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="openmetaverse_data\body_skingrain.tga" Description="File successfully backed up as E:\OpenSim\server\Backup\openmetaverse_data\body_skingrain.tga">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="openmetaverse_data\bump_face_wrinkles.tga" Description="File successfully backed up as E:\OpenSim\server\Backup\openmetaverse_data\bump_face_wrinkles.tga">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="openmetaverse_data\bump_head_base.tga" Description="File successfully backed up as E:\OpenSim\server\Backup\openmetaverse_data\bump_head_base.tga">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="openmetaverse_data\bump_lowerbody_base.tga" Description="File successfully backed up as E:\OpenSim\server\Backup\openmetaverse_data\bump_lowerbody_base.tga">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="openmetaverse_data\bump_pants_wrinkles.tga" Description="File successfully backed up as E:\OpenSim\server\Backup\openmetaverse_data\bump_pants_wrinkles.tga">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="openmetaverse_data\bump_shirt_wrinkles.tga" Description="File successfully backed up as E:\OpenSim\server\Backup\openmetaverse_data\bump_shirt_wrinkles.tga">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="openmetaverse_data\bump_upperbody_base.tga" Description="File successfully backed up as E:\OpenSim\server\Backup\openmetaverse_data\bump_upperbody_base.tga">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="openmetaverse_data\eyebrows_alpha.tga" Description="File successfully backed up as E:\OpenSim\server\Backup\openmetaverse_data\eyebrows_alpha.tga">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="openmetaverse_data\eyeliner_alpha.tga" Description="File successfully backed up as E:\OpenSim\server\Backup\openmetaverse_data\eyeliner_alpha.tga">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="openmetaverse_data\eyeshadow_inner_alpha.tga" Description="File successfully backed up as E:\OpenSim\server\Backup\openmetaverse_data\eyeshadow_inner_alpha.tga">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="openmetaverse_data\eyeshadow_outer_alpha.tga" Description="File successfully backed up as E:\OpenSim\server\Backup\openmetaverse_data\eyeshadow_outer_alpha.tga">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="openmetaverse_data\eyewhite.tga" Description="File successfully backed up as E:\OpenSim\server\Backup\openmetaverse_data\eyewhite.tga">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="openmetaverse_data\facehair_chincurtains_alpha.tga" Description="File successfully backed up as E:\OpenSim\server\Backup\openmetaverse_data\facehair_chincurtains_alpha.tga">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="openmetaverse_data\facehair_moustache_alpha.tga" Description="File successfully backed up as E:\OpenSim\server\Backup\openmetaverse_data\facehair_moustache_alpha.tga">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="openmetaverse_data\facehair_sideburns_alpha.tga" Description="File successfully backed up as E:\OpenSim\server\Backup\openmetaverse_data\facehair_sideburns_alpha.tga">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="openmetaverse_data\facehair_soulpatch_alpha.tga" Description="File successfully backed up as E:\OpenSim\server\Backup\openmetaverse_data\facehair_soulpatch_alpha.tga">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="openmetaverse_data\freckles_alpha.tga" Description="File successfully backed up as E:\OpenSim\server\Backup\openmetaverse_data\freckles_alpha.tga">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="openmetaverse_data\gloves_fingers_alpha.tga" Description="File successfully backed up as E:\OpenSim\server\Backup\openmetaverse_data\gloves_fingers_alpha.tga">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="openmetaverse_data\glove_length_alpha.tga" Description="File successfully backed up as E:\OpenSim\server\Backup\openmetaverse_data\glove_length_alpha.tga">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="openmetaverse_data\head_alpha.tga" Description="File successfully backed up as E:\OpenSim\server\Backup\openmetaverse_data\head_alpha.tga">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="openmetaverse_data\head_color.tga" Description="File successfully backed up as E:\OpenSim\server\Backup\openmetaverse_data\head_color.tga">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="openmetaverse_data\head_hair.tga" Description="File successfully backed up as E:\OpenSim\server\Backup\openmetaverse_data\head_hair.tga">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="openmetaverse_data\head_highlights_alpha.tga" Description="File successfully backed up as E:\OpenSim\server\Backup\openmetaverse_data\head_highlights_alpha.tga">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="openmetaverse_data\head_shading_alpha.tga" Description="File successfully backed up as E:\OpenSim\server\Backup\openmetaverse_data\head_shading_alpha.tga">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="openmetaverse_data\head_skingrain.tga" Description="File successfully backed up as E:\OpenSim\server\Backup\openmetaverse_data\head_skingrain.tga">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="openmetaverse_data\jacket_length_lower_alpha.tga" Description="File successfully backed up as E:\OpenSim\server\Backup\openmetaverse_data\jacket_length_lower_alpha.tga">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="openmetaverse_data\jacket_length_upper_alpha.tga" Description="File successfully backed up as E:\OpenSim\server\Backup\openmetaverse_data\jacket_length_upper_alpha.tga">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="openmetaverse_data\jacket_open_lower_alpha.tga" Description="File successfully backed up as E:\OpenSim\server\Backup\openmetaverse_data\jacket_open_lower_alpha.tga">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="openmetaverse_data\jacket_open_upper_alpha.tga" Description="File successfully backed up as E:\OpenSim\server\Backup\openmetaverse_data\jacket_open_upper_alpha.tga">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="openmetaverse_data\lipgloss_alpha.tga" Description="File successfully backed up as E:\OpenSim\server\Backup\openmetaverse_data\lipgloss_alpha.tga">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="openmetaverse_data\lipstick_alpha.tga" Description="File successfully backed up as E:\OpenSim\server\Backup\openmetaverse_data\lipstick_alpha.tga">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="openmetaverse_data\lips_mask.tga" Description="File successfully backed up as E:\OpenSim\server\Backup\openmetaverse_data\lips_mask.tga">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="openmetaverse_data\lowerbody_color.tga" Description="File successfully backed up as E:\OpenSim\server\Backup\openmetaverse_data\lowerbody_color.tga">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="openmetaverse_data\lowerbody_highlights_alpha.tga" Description="File successfully backed up as E:\OpenSim\server\Backup\openmetaverse_data\lowerbody_highlights_alpha.tga">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="openmetaverse_data\lowerbody_shading_alpha.tga" Description="File successfully backed up as E:\OpenSim\server\Backup\openmetaverse_data\lowerbody_shading_alpha.tga">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="openmetaverse_data\nailpolish_alpha.tga" Description="File successfully backed up as E:\OpenSim\server\Backup\openmetaverse_data\nailpolish_alpha.tga">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="openmetaverse_data\pants_length_alpha.tga" Description="File successfully backed up as E:\OpenSim\server\Backup\openmetaverse_data\pants_length_alpha.tga">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="openmetaverse_data\pants_waist_alpha.tga" Description="File successfully backed up as E:\OpenSim\server\Backup\openmetaverse_data\pants_waist_alpha.tga">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="openmetaverse_data\rosyface_alpha.tga" Description="File successfully backed up as E:\OpenSim\server\Backup\openmetaverse_data\rosyface_alpha.tga">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="openmetaverse_data\rouge_alpha.tga" Description="File successfully backed up as E:\OpenSim\server\Backup\openmetaverse_data\rouge_alpha.tga">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="openmetaverse_data\shirt_bottom_alpha.tga" Description="File successfully backed up as E:\OpenSim\server\Backup\openmetaverse_data\shirt_bottom_alpha.tga">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="openmetaverse_data\shirt_collar_alpha.tga" Description="File successfully backed up as E:\OpenSim\server\Backup\openmetaverse_data\shirt_collar_alpha.tga">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="openmetaverse_data\shirt_collar_back_alpha.tga" Description="File successfully backed up as E:\OpenSim\server\Backup\openmetaverse_data\shirt_collar_back_alpha.tga">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="openmetaverse_data\shirt_sleeve_alpha.tga" Description="File successfully backed up as E:\OpenSim\server\Backup\openmetaverse_data\shirt_sleeve_alpha.tga">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="openmetaverse_data\shoe_height_alpha.tga" Description="File successfully backed up as E:\OpenSim\server\Backup\openmetaverse_data\shoe_height_alpha.tga">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="openmetaverse_data\skirt_length_alpha.tga" Description="File successfully backed up as E:\OpenSim\server\Backup\openmetaverse_data\skirt_length_alpha.tga">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="openmetaverse_data\skirt_slit_back_alpha.tga" Description="File successfully backed up as E:\OpenSim\server\Backup\openmetaverse_data\skirt_slit_back_alpha.tga">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="openmetaverse_data\skirt_slit_front_alpha.tga" Description="File successfully backed up as E:\OpenSim\server\Backup\openmetaverse_data\skirt_slit_front_alpha.tga">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="openmetaverse_data\skirt_slit_left_alpha.tga" Description="File successfully backed up as E:\OpenSim\server\Backup\openmetaverse_data\skirt_slit_left_alpha.tga">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="openmetaverse_data\skirt_slit_right_alpha.tga" Description="File successfully backed up as E:\OpenSim\server\Backup\openmetaverse_data\skirt_slit_right_alpha.tga">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="openmetaverse_data\underpants_trial_female.tga" Description="File successfully backed up as E:\OpenSim\server\Backup\openmetaverse_data\underpants_trial_female.tga">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="openmetaverse_data\underpants_trial_male.tga" Description="File successfully backed up as E:\OpenSim\server\Backup\openmetaverse_data\underpants_trial_male.tga">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="openmetaverse_data\undershirt_trial_female.tga" Description="File successfully backed up as E:\OpenSim\server\Backup\openmetaverse_data\undershirt_trial_female.tga">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="openmetaverse_data\upperbodyfreckles_alpha.tga" Description="File successfully backed up as E:\OpenSim\server\Backup\openmetaverse_data\upperbodyfreckles_alpha.tga">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="openmetaverse_data\upperbody_color.tga" Description="File successfully backed up as E:\OpenSim\server\Backup\openmetaverse_data\upperbody_color.tga">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="openmetaverse_data\upperbody_highlights_alpha.tga" Description="File successfully backed up as E:\OpenSim\server\Backup\openmetaverse_data\upperbody_highlights_alpha.tga">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="openmetaverse_data\upperbody_shading_alpha.tga" Description="File successfully backed up as E:\OpenSim\server\Backup\openmetaverse_data\upperbody_shading_alpha.tga">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="robots.txt" Description="File successfully backed up as E:\OpenSim\server\Backup\robots.txt">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="Html\Templates\iPhone.html" Description="File successfully backed up as E:\OpenSim\server\Backup\Html\Templates\iPhone.html">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="deviMobile.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="deviMobile" Source="deviMobile.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="deviMobile.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="deviMobile.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="deviMobile" Source="deviMobile.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

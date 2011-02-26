@@ -1,0 +1,10 @@
+MIDlet-1: deviTest, ,com.devi.os.deviOS
+MIDlet-Jar-Size: 244657
+MIDlet-Jar-URL: deviTest.jar
+MIDlet-Name: deviTest
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
+Navi-Key-Hidden: true
+Nokia-MIDlet-On-Screen-Keypad: no

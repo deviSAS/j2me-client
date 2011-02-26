@@ -78,9 +78,10 @@ Before you start, we recommend you to use the following:
 
 Download the lastest Git, you will find the following folders
 
-> source: contains the J2ME app source
-> libs: contains used libs (LWUIT)
-> demo: pre-compiled app demo
+- source: contains the J2ME app source
+- libs: contains used libs (LWUIT)
+- demo: pre-compiled app demo
+- server: contains server side source files
 
 Start a new demo project by loading the folder inside source folder, make sure LWUIT.jar dependency is OK.
 
@@ -89,20 +90,20 @@ Start a new demo project by loading the folder inside source folder, make sure L
 Java class files distribution:
 
 - com.devi.os/
--- AvatarsNear: Receives and parse 'Avatars nears' data when requested, then, the data is sent to an UI file.
--- ChatLocal: Receives local chat messages, holds up to 10 messsages in reverse order (to save memory).
--- DataSend: Handles the system data transfer, takes care of the format and sends the data to the server.
--- Events: Receive events data from server and transfer them to the correct class.
--- Friends: Handles avatar friends, loaded on log in, holds friend status (on/off) and UUID.
--- IMSessions: Handles each IM session (even offline messages) by an unique ID.
--- MainUI: Handles the whole system User Interface, decides wich UI file call.
--- UserLogin:  Makes possible the user login parsing the login view data and sending it to DataSend.
--- deviOS: The core of the system, actually only starts everything then is managed by MainUI.
+- - AvatarsNear: Receives and parse 'Avatars nears' data when requested, then, the data is sent to an UI file.
+- - ChatLocal: Receives local chat messages, holds up to 10 messsages in reverse order (to save memory).
+- - DataSend: Handles the system data transfer, takes care of the format and sends the data to the server.
+- - Events: Receive events data from server and transfer them to the correct class.
+- - Friends: Handles avatar friends, loaded on log in, holds friend status (on/off) and UUID.
+- - IMSessions: Handles each IM session (even offline messages) by an unique ID.
+- - MainUI: Handles the whole system User Interface, decides wich UI file call.
+- - UserLogin:  Makes possible the user login parsing the login view data and sending it to DataSend.
+- - deviOS: The core of the system, actually only starts everything then is managed by MainUI.
 
 - com.devi.os.json/
--- JSONClasses
+- - JSONClasses
 
 - com.devi.os.ui/
---
+- -
 
 - com.devi.os.util

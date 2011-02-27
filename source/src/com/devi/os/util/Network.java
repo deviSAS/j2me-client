@@ -44,7 +44,7 @@ import java.io.*;
 
 public class Network {
     private boolean netStatus = false;
-    private String url = "http://SERVERURI:7000/";
+    private String url = "http://SERVER_URL:PORT/";
 
     public String sendHttp( String path, String params ) throws IOException {
 
